@@ -1,2 +1,7 @@
 # pandas-challenge
-Challenge_4_DataAnalytiswithPython
+This panda challenge is based on python pandas and will help this school board and mayor make strategic decisions regarding future school budgets and priorities. The initial dataframe is based on schools and students. The combined dataset contains the following:
+Student ID, student name, gender, grade, school_name, reading_score, math_score, school ID, type, size, budget.
+The dictionary Summary displays 15 schools and 39170 students with an average reading score of 81.877 higher than the average math score of 78.985. The percentage of students who passed reading is 85.805 higher than the percentage of students who passed in math 74.980, which indicates that the students’ highest score is in reading.
+The school summary shows that Bailey High School, District school type, has the highest student total of 4976 and a maximum school budget of $3,124,928.00, and Holden High School, Charter school, has the lowest student total of 427 and its budget is also the lowest $248,087.00. However, % overall passing is higher at Holden High School, this can be attributed to the fact that the school has fewer students since it is a Charter type.
+Without taking into account the budget and number of students, the school with the highest % overall passing 91.334 is Cabrera High School, Charter school type, prevailing % reading score 97.039, while the district type school, Rodriguez High School, has the lowest % overall passing 52.988, prevailing % reading score 80.22.
+In conclusion, Charter schools have better performance and school size is also a factor in determining performance, with small schools (<1000 students) being the schools with the highest overall passing percentage.
